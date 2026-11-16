@@ -1,4 +1,4 @@
-# Code and Data Archive: Substrate physical form drives qualitatively distinct soil microbial community trajectories during sugar processing
+# Code and Data Archive: Monomeric and polymeric plant carbohydrates drive distinct population and metabolic dynamics in a soil microbial community 
 
 [![DOI](https://zenodo.org/badge/DOI/[DOI_PLACEHOLDER].svg)](https://doi.org/[DOI_PLACEHOLDER])
 
@@ -8,7 +8,7 @@ Sarah S. Zeichner, Norah Chen, Katerina Estera-Molina, Mike Allen, Jessica R. Wo
 
 ## Summary
 
-This repository contains all code and data needed to reproduce the analyses and figures in Zeichner et al. "Substrate physical form drives qualitatively distinct soil microbial community trajectories during sugar processing."
+This repository contains all code and data needed to reproduce the analyses and figures in Zeichner et al. "Monomeric and polymeric plant carbohydrates drive distinct population and metabolic dynamics in a soil microbial community."
 
 Soil microcosms were amended with 13C-labeled glucose+xylose (monomers) or 13C-labeled hemicellulose (polymer) and sampled over 28 days. Metatranscriptomic, quantitative stable isotope probing (qSIP), extracellular pore water metabolomic, and 13C-CO2 respiration data were integrated to show that substrate physical form induces qualitatively distinct microbial community trajectories, not merely different rates along a common successional path.
 
