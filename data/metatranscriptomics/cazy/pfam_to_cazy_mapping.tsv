@@ -1,0 +1,179 @@
+pfam_id	pfam_accession	cazy_family	pfam_name
+pfam00024	PF00024	CBM14	PAN domain
+pfam00150	PF00150	GH5	Cellulase (glycosyl hydrolase family 5)
+pfam00187	PF00187	CBM20	Chitin recognition protein
+pfam00232	PF00232	GH1	Glycosyl hydrolase family 1
+pfam00331	PF00331	GH10	Glycosyl hydrolase family 10
+pfam00394	PF00394	AA1	Multicopper oxidase
+pfam00534	PF00534	GT1	Glycosyl transferases group 1
+pfam00535	PF00535	GT2	Glycosyl transferase family 2
+pfam00553	PF00553	CBM2	Cellulose binding domain
+pfam00728	PF00728	GH20	Glycosyl hydrolase family 20, catalytic domain
+pfam00732	PF00732	AA3	GMC oxidoreductase
+pfam00734	PF00734	CBM1	Fungal cellulose binding domain
+pfam00759	PF00759	GH9	Glycosyl hydrolase family 9
+pfam00777	PF00777	GT29	Glycosyltransferase family 29 (sialyltransferase)
+pfam00840	PF00840	GH7	Glycosyl hydrolase family 7
+pfam00852	PF00852	GT10	Glycosyltransferase family 10 (fucosyltransferase) C-term
+pfam00933	PF00933	GH3	Glycosyl hydrolase family 3 N terminal domain
+pfam00942	PF00942	CBM3	Cellulose binding domain
+pfam00953	PF00953	GT4	Glycosyl transferase family 4
+pfam00982	PF00982	GT20	Glycosyltransferase family 20
+pfam01055	PF01055	GH31	Glycosyl hydrolases family 31 TIM-barrel domain
+pfam01075	PF01075	GT9	Glycosyltransferase family 9 (heptosyltransferase)
+pfam01083	PF01083	CE10	Cutinase
+pfam01183	PF01183	GH23	Glycosyl hydrolases family 25
+pfam01373	PF01373	GH14	Glycosyl hydrolase family 14
+pfam01374	PF01374	GH46	Glycosyl hydrolase family 46
+pfam01473	PF01473	CBM32	Putative cell wall binding repeat
+pfam01476	PF01476	CBM50	LysM domain
+pfam01501	PF01501	GT8	Glycosyl transferase family 8
+pfam01522	PF01522	CE4	Polysaccharide deacetylase
+pfam01531	PF01531	GT11	Glycosyl transferase family 11
+pfam01532	PF01532	GH47	Glycosyl hydrolase family 47
+pfam01565	PF01565	AA4	FAD binding domain 
+pfam01607	PF01607	CBM12	Chitin binding Peritrophin-A domain
+pfam01670	PF01670	GH12	Glycosyl hydrolase family 12
+pfam01697	PF01697	GT92	Glycosyltransferase family 92
+pfam01755	PF01755	GT25	Glycosyltransferase family 25 (LPS biosynthesis protein)
+pfam01915	PF01915	GH3	Glycosyl hydrolase family 3 C-terminal domain
+pfam02011	PF02011	GH48	Glycosyl hydrolase family 48
+pfam02015	PF02015	GH45	Glycosyl hydrolase family 45
+pfam02018	PF02018	CBM4	Carbohydrate binding domain
+pfam02055	PF02055	GH30	Glycosyl hydrolase family 30 TIM-barrel domain
+pfam02057	PF02057	GH59	Glycosyl hydrolase family 59
+pfam02065	PF02065	GH35	Melibiase
+pfam02156	PF02156	GH26	Glycosyl hydrolase family 26
+pfam02278	PF02278	PL8	Polysaccharide lyase family 8, super-sandwich domain
+pfam02324	PF02324	GH70	Glycosyl hydrolase family 70
+pfam02668	PF02668	AA8	Taurine catabolism dioxygenase TauD, TfdA family
+pfam02684	PF02684	GT51	Lipid-A-disaccharide synthetase
+pfam02838	PF02838	GH20	Glycosyl hydrolase family 20, domain 2
+pfam02839	PF02839	CBM5	Carbohydrate-binding module family 5/12
+pfam02884	PF02884	PL8	Polysaccharide lyase family 8, C-terminal beta-sandwich domain
+pfam02922	PF02922	CBM48	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)
+pfam03033	PF03033	GT28	Glycosyltransferase family 28 N-terminal domain
+pfam03065	PF03065	GH57	Glycosyl hydrolase family 57
+pfam03067	PF03067	AA7	Lytic polysaccharide mono-oxygenase, cellulose-degrading
+pfam03200	PF03200	GH39	Glycosyl hydrolase family 63 C-terminal domain
+pfam03283	PF03283	CE11	Pectinacetylesterase
+pfam03321	PF03321	GH3	GH3 auxin-responsive promoter
+pfam03360	PF03360	GT43	Glycosyltransferase family 43
+pfam03414	PF03414	GT26	Glycosyltransferase family 6
+pfam03443	PF03443	GH61	Auxiliary Activity family 9 (formerly GH61)
+pfam03512	PF03512	GH52	Glycosyl hydrolase family 52
+pfam03537	PF03537	GH114	Glycoside-hydrolase family GH114
+pfam03629	PF03629	CE8	Carbohydrate esterase, sialic acid-specific acetylesterase
+pfam03632	PF03632	GH65	Glycosyl hydrolase family 65 central catalytic domain
+pfam03633	PF03633	GH65	Glycosyl hydrolase family 65, C-terminal domain 
+pfam03636	PF03636	GH65	Glycosyl hydrolase family 65, N-terminal domain 
+pfam03639	PF03639	GH81	Glycosyl hydrolase family 81 N-terminal domain
+pfam03644	PF03644	GH85	Glycosyl hydrolase family 85 
+pfam03648	PF03648	GH67	Glycosyl hydrolase family 67 N-terminus
+pfam03659	PF03659	GH71	Glycosyl hydrolase family 71
+pfam03662	PF03662	GH79	Glycosyl hydrolase family 79, N-terminal domain 
+pfam03663	PF03663	GH51	Glycosyl hydrolase family 76 
+pfam03664	PF03664	GH62	Glycosyl hydrolase family 62 
+pfam03718	PF03718	GH49	Glycosyl hydrolase family 49
+pfam04101	PF04101	GT28	Glycosyltransferase family 28 C-terminal domain
+pfam04488	PF04488	GT83	Glycosyltransferase sugar-binding region containing DXD motif   
+pfam04577	PF04577	GT61	Glycosyltransferase 61
+pfam04616	PF04616	GH43	Glycosyl hydrolases family 43
+pfam04685	PF04685	GH94	Glycosyl-hydrolase family 116, catalytic region
+pfam04724	PF04724	GT17	Glycosyltransferase family 17
+pfam05686	PF05686	GT90	Glycosyl transferase family 90
+pfam05838	PF05838	GH108	Glycosyl hydrolase 108
+pfam06165	PF06165	GT36	Glycosyltransferase family 36
+pfam06824	PF06824	GH125	Metal-independent alpha-mannosidase (GH125)
+pfam07429	PF07429	GT56	4-alpha-L-fucosyltransferase glycosyl transferase group 56
+pfam07477	PF07477	GH67	Glycosyl hydrolase family 67 C-terminus
+pfam07488	PF07488	GH67	Glycosyl hydrolase family 67 middle domain
+pfam07519	PF07519	CE4	Tannase and feruloyl esterase
+pfam07731	PF07731	AA2	Multicopper oxidase
+pfam07745	PF07745	GH73	Glycosyl hydrolase family 53
+pfam07922	PF07922	GT52	Glycosyltransferase family 52
+pfam07944	PF07944	GH127	Beta-L-arabinofuranosidase, GH127 catalytic domain
+pfam07971	PF07971	GH92	Glycosyl hydrolase family 92 catalytic domain
+pfam08124	PF08124	PL8	Polysaccharide lyase family 8, N terminal alpha-helical domain
+pfam08306	PF08306	GH98	Glycosyl hydrolase family 98
+pfam08307	PF08307	GH98	Glycosyl hydrolase family 98 C-terminal domain
+pfam08437	PF08437	GT8	Glycosyl transferase family 8 C-terminal
+pfam09212	PF09212	CBM27	Carbohydrate binding module 27
+pfam09258	PF09258	GT64	Glycosyl transferase family 64 domain
+pfam09318	PF09318	GT1	Glycosyl transferase 1 domain A
+pfam09478	PF09478	CBM20	Carbohydrate binding domain CBM49
+pfam09594	PF09594	GT87	Glycosyltransferase family 87
+pfam10566	PF10566	GH97	Glycoside hydrolase 97  
+pfam11308	PF11308	GH101	Glycosyl hydrolases related to GH101 family, GH129
+pfam12000	PF12000	GT4	Glycosyl transferase family 4 group
+pfam12708	PF12708	CE1	Pectate lyase superfamily protein
+pfam12891	PF12891	GH44	Glycoside hydrolase family 44
+pfam13199	PF13199	GH66	Glycosyl hydrolase family 66
+pfam13320	PF13320	GH123	Glycoside hydrolase 123, catalytic domain
+pfam13477	PF13477	GT4	Glycosyl transferase 4-like
+pfam13506	PF13506	GT21	Glycosyl transferase family 21
+pfam13528	PF13528	GT1	Glycosyl transferase family 1
+pfam13579	PF13579	GT4	Glycosyl transferase 4-like domain
+pfam13647	PF13647	GH80	Glycosyl hydrolase family 80 of chitosanase A
+pfam13704	PF13704	GT2	Glycosyl transferase family 2
+pfam13733	PF13733	GT7	N-terminal region of glycosyl transferase group 7
+pfam13802	PF13802	GH43	Glycosyl hydrolase 31 N-terminal galactose mutarotase-like domain
+pfam13844	PF13844	GT41	Glycosyl transferase family 41
+pfam14498	PF14498	GH65	Glycosyl hydrolase family 65, N-terminal domain
+pfam14587	PF14587	GH30	O-Glycosyl hydrolase family 30
+pfam14683	PF14683	PL4	Polysaccharide lyase family 4, domain III
+pfam14686	PF14686	PL4	Polysaccharide lyase family 4, domain II
+pfam14871	PF14871	GH6	Hypothetical glycosyl hydrolase 6
+pfam14872	PF14872	GH5	Hypothetical glycoside hydrolase 5
+pfam14883	PF14883	GH13	Hypothetical glycosyl hydrolase family 13
+pfam14885	PF14885	GH15	Hypothetical glycosyl hydrolase family 15
+pfam15024	PF15024	GT18	Glycosyltransferase family 18
+pfam15979	PF15979	GH115	Glycosyl hydrolase family 115
+pfam16141	PF16141	GH18	Glycoside hydrolase family 18, BT1044-like
+pfam16317	PF16317	GH99	Glycosyl hydrolase family 99
+pfam16346	PF16346	GH32	GH32, BT1760-like, C-terminal domain
+pfam16574	PF16574	CE290	Coiled-coil region of centrosome protein CE290
+pfam16849	PF16849	GT88	Glycosyltransferase family 88
+pfam16862	PF16862	GH79	Glycosyl hydrolase family 79 C-terminal beta domain
+pfam16874	PF16874	GH36	Glycosyl hydrolase family 36 C-terminal domain
+pfam16875	PF16875	GH36	Glycosyl hydrolase family 36 N-terminal domain
+pfam16923	PF16923	GH63	Glycosyl hydrolase family 63 N-terminal domain
+pfam17167	PF17167	GH36	Glycosyl hydrolase 36 superfamily, catalytic domain
+pfam17189	PF17189	GH30	Glycosyl hydrolase family 30 beta sandwich domain
+pfam17387	PF17387	GH59	Glycosyl hydrolase family 59 central domain
+pfam17433	PF17433	GH49	Glycosyl hydrolase family 49 N-terminal Ig-like domain
+pfam17451	PF17451	GH101	Glycosyl hydrolase 101 beta sandwich domain
+pfam17652	PF17652	GH81	Glycosyl hydrolase family 81 C-terminal domain
+pfam17678	PF17678	GH92	Glycosyl hydrolase family 92 N-terminal domain
+pfam17996	PF17996	CE2	Carbohydrate esterase 2 N-terminal
+pfam18034	PF18034	GH3	Bacterial Glycosyl hydrolase family 3 C-terminal domain
+pfam18259	PF18259	CBM65	Carbohydrate binding module 65 domain 1
+pfam18271	PF18271	GH131	Glycoside hydrolase 131 catalytic N-terminal domain
+pfam18283	PF18283	CBM77	Carbohydrate binding module 77
+pfam18344	PF18344	CBM32	Carbohydrate binding module family 32
+pfam18370	PF18370	CBM50	Rhamnogalacturonan I lyases beta-sheet domain  
+pfam18564	PF18564	GH5	Glycoside hydrolase family 5 C-terminal domain
+pfam18565	PF18565	GH2	Glycoside hydrolase family 2 C-terminal domain 5
+pfam18666	PF18666	CBM64	Carbohydrate-binding module 64
+pfam19543	PF19543	GH123	Glycoside hydrolase 123, N-terminal domain
+pfam20736	PF20736	GH127	Beta-L-arabinofuranosidase, GH127 middle domain
+pfam20737	PF20737	GH127	Glycoside hydrolase family 127 C-terminal domain
+pfam20756	PF20756	CBM58	Alpha-amylase SusG, CBM58 domain
+pfam21087	PF21087	GH134	Glycosyl hydrolase family 134
+pfam21104	PF21104	GH78	Glycosyl hydrolase family 78 alpha-rhamnosidase N-terminal domain
+pfam21231	PF21231	GH141	GH141 insertion domain 
+pfam21252	PF21252	GH109	Glycosyl hydrolase 109, C-terminal domain
+pfam21258	PF21258	GH120	Glycoside hydrolase 120, insertion domain
+pfam21294	PF21294	PL14	Polysaccharide lyase 14
+pfam21307	PF21307	GH95	Glycoside hydrolase family 95, C-terminal domain
+pfam21365	PF21365	GH31	Glycosyl hydrolase family 31 C-terminal domain
+pfam21809	PF21809	GH84	Bacterial GH84, post-catalytic domain
+pfam21910	PF21910	GH85	GH85 endohexosaminidases, C-terminal domain
+pfam21912	PF21912	GT99	Glycosyltransferase 99 family N-terminal domain
+pfam22124	PF22124	GH95	Glycosyl hydrolase family 95 catalytic domain
+pfam22184	PF22184	CBM56	Carbohydrate binding module family 56
+pfam22666	PF22666	GH2	Glycosyl hydrolase 2 galactose-binding domain-like 
+pfam22680	PF22680	GH123	Glycoside hydrolase 123 N-terminal domain
+pfam22704	PF22704	CBM13	Alpha-galactosidase, CBM13 domain
+pfam22810	PF22810	AA14	Lytic polysaccharide monooxygenase AA14
+pfam22826	PF22826	PL28	PL28 ulvan lyases

@@ -1,0 +1,5 @@
+02/12/2026 15:55:01 [IO.py:84] Started
+02/12/2026 15:55:01 [Main2.py:144] Started 2:
+02/12/2026 15:55:01 [AbundanceProfile.py:470] Abundance Profile Overview
+02/12/2026 15:55:01 [AbundanceProfile.py:494] FUNC type=ko
+02/12/2026 15:55:43 [Main2.py:265] Done

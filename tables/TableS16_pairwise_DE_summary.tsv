@@ -1,0 +1,4 @@
+comparison	total_KO_tested	n_significant_FDR05	pct_significant	n_higher_treatA	n_higher_treatB
+Glucose vs Xylose	11215	0	0.0	0	0
+Glucose vs Hemicellulose	11215	2307	20.6	1485	822
+Xylose vs Hemicellulose	11215	2416	21.5	1540	876

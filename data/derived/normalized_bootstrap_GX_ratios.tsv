@@ -1,0 +1,12 @@
+metabolite	metabolite_name	n_carbons	old_1minusM0_ratio	old_CI_lo	old_CI_hi	significant_old	raw_GX_ratio	raw_GX_CI_lo	raw_GX_CI_hi	significant_raw	norm_GX_ratio	norm_GX_CI_lo	norm_GX_CI_hi	significant_norm
+PYR	Pyruvate	3	8.33	6.64	11.29	True	11.36	8.51	17.63	True	3.93	2.96	6.08	True
+LAT	Lactate	3	13.47	9.17	24.11	True	51.18	-744.14	914.6	False	17.81	-225.35	297.57	False
+Cit	Citrate	6	18.49	-146.09	80.01	False	78.17	-704.82	372.15	False	27.27	-235.64	147.67	False
+aKG	α-Ketoglutarate	5	5.94	3.69	31.67	True	9.3	-25.69	120.38	False	3.22	-10.36	42.91	False
+Suc	Succinate	4	6.78	5.55	8.33	True	23.07	14.12	46.75	True	7.94	4.84	16.43	True
+Fum	Fumarate	4	4.26	3.5	5.26	True	6.09	4.91	7.51	True	2.11	1.72	2.62	True
+Mal	Malate	4	4.73	4.02	5.81	True	7.25	6.09	9.14	True	2.51	2.11	3.15	True
+Asp	Aspartate	4	10.06	4.7	17.31	True	36.09	19.25	59.67	True	12.54	6.68	20.89	True
+GLUM	Glutamate	5	2.43	0.94	5.25	False	3.91	2.62	5.51	True	1.36	0.91	1.91	False
+AGLUM	N-Acetylglutamate	7	2.18	1.27	3.04	True	2.74	-0.56	6.09	False	0.95	-0.16	2.1	False
+TCA_agg	TCA aggregate	0	5.65	4.88	6.88	True	9.56	7.71	14.23	True	3.32	2.67	4.83	True

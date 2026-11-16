@@ -1,0 +1,7 @@
+metabolite	glucose_slope	xylose_slope	GX_ratio_median	CI_lo_2.5pct	CI_hi_97.5pct	p_G_greater_X	significant
+Cit	0.3226	0.1044	3.056	1.994	4.800	1.0	yes
+aKG	0.3001	0.1599	1.878	1.407	2.637	1.0	yes
+Suc	0.1802	0.099	1.825	1.49	2.166	1.0	yes
+Fum	0.3182	0.2064	1.547	1.214	1.87	0.9995	yes
+Mal	0.3234	0.1768	1.823	1.618	2.114	1.0	yes
+Asp	0.2636	0.2029	1.327	0.67	1.82	0.8339	no

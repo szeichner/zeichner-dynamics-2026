@@ -1,0 +1,4 @@
+comparison	Glucose_slope	Xylose_slope	ratio_median	CI_lo_2.5pct	CI_hi_97.5pct	p_A_greater_B	significant	n_valid_bootstraps	Hemicellulose_slope
+G/X	0.01936	0.006768	2.863	2.434	3.296	1.0	yes	10000	
+G/H	0.01936		0.654	0.522	0.828	0.0005	no	10000	0.029618
+X/H		0.006768	0.228	0.191	0.283	0.0	no	10000	0.029618

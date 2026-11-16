@@ -1,0 +1,4 @@
+treatment	soil_mass_g	total_C_added_mg	C_per_g_soil_mg	13C_fraction_of_amendment	13C_added_mg	amendment_pct_of_soil_C	note
+Glucose+xylose (13C-glucose)	20.0	6.940675	0.34703375	0.7428032576082297	5.155556	3.4703375000000003	13C-glucose + unlabeled xylose; soil C ~200 mg/microcosm (1% TOC). Soil physicochemical properties reported in Fossum et al.
+Glucose+xylose (13C-xylose)	20.0	6.940675	0.34703375	0.2571968864699759	1.78512	3.4703375000000003	13C-xylose + unlabeled glucose
+Hemicellulose	20.0	8.888889	0.44444445000000005	1.0	8.888889	4.4444445	100% 13C-hemicellulose polymer; substrate purity 97%

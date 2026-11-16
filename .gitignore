@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+.eggs/
+
+# macOS
+.DS_Store
+._*
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large binary files (tracked via Zenodo, not git)
+# Uncomment if needed:
+# *.RData
+# data/qSIP/output/*.tsv
+
+# Deprecated figures
+figures/output/deprecated/
+
+# Temporary files
+*.tmp
+*.bak
+~$*

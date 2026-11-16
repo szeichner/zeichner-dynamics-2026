@@ -1,0 +1,60 @@
+test_id	claim	test_name	statistic	p_value	p_adjusted	n	significant	notes
+A1	Weighted EAF exceeds unweighted by ~2-fold at 3d glucose	Bootstrap (n=2000)	W/U ratio=2.09	1.0000		2839	NO	95% CI ratio [1.00, 1.00]
+A2a	Fungal onset at 3d glucose	Mann-Whitney U (one-sided)	U=120605	1.91e-12		406 vs 467	YES	
+A2b	Fungal onset at 7d xylose	Mann-Whitney U (one-sided)	U=79644	6.64e-08		348 vs 373	YES	
+A2c	Fungal onset at 14d hemicellulose	Mann-Whitney U (one-sided)	U=183731	1.37e-56		471 vs 491	YES	
+A3_Glu_2	ITS Glucose 2h: EAF > 0	Bootstrap 95% CI	EAF=-0.0015			443	NO	95% CI [-0.0076, 0.0046]
+A3_Glu_8	ITS Glucose 8h: EAF > 0	Bootstrap 95% CI	EAF=0.0203			477	YES	95% CI [0.0141, 0.0265]
+A3_Glu_24	ITS Glucose 1d: EAF > 0	Bootstrap 95% CI	EAF=0.0058			467	NO	95% CI [-0.0005, 0.0122]
+A3_Glu_72	ITS Glucose 3d: EAF > 0	Bootstrap 95% CI	EAF=0.0379			406	YES	95% CI [0.0300, 0.0458]
+A3_Glu_168	ITS Glucose 7d: EAF > 0	Bootstrap 95% CI	EAF=0.0678			365	YES	95% CI [0.0575, 0.0782]
+A3_Glu_336	ITS Glucose 14d: EAF > 0	Bootstrap 95% CI	EAF=0.1323			281	YES	95% CI [0.1196, 0.1450]
+A3_Xyl_2	ITS Xylose 2h: EAF > 0	Bootstrap 95% CI	EAF=0.0167			300	YES	95% CI [0.0124, 0.0210]
+A3_Xyl_8	ITS Xylose 8h: EAF > 0	Bootstrap 95% CI	EAF=0.0270			435	YES	95% CI [0.0219, 0.0322]
+A3_Xyl_24	ITS Xylose 1d: EAF > 0	Bootstrap 95% CI	EAF=0.0359			425	YES	95% CI [0.0299, 0.0419]
+A3_Xyl_72	ITS Xylose 3d: EAF > 0	Bootstrap 95% CI	EAF=-0.0092			373	NO	95% CI [-0.0158, -0.0025]
+A3_Xyl_168	ITS Xylose 7d: EAF > 0	Bootstrap 95% CI	EAF=0.0223			348	YES	95% CI [0.0137, 0.0309]
+A3_Xyl_336	ITS Xylose 14d: EAF > 0	Bootstrap 95% CI	EAF=0.0250			376	YES	95% CI [0.0167, 0.0333]
+A3_Hem_2	ITS Hemicellulose 2h: EAF > 0	Bootstrap 95% CI	EAF=-0.0403			376	NO	95% CI [-0.0481, -0.0325]
+A3_Hem_8	ITS Hemicellulose 8h: EAF > 0	Bootstrap 95% CI	EAF=-0.0034			515	NO	95% CI [-0.0093, 0.0025]
+A3_Hem_24	ITS Hemicellulose 1d: EAF > 0	Bootstrap 95% CI	EAF=0.0038			457	NO	95% CI [-0.0021, 0.0097]
+A3_Hem_72	ITS Hemicellulose 3d: EAF > 0	Bootstrap 95% CI	EAF=0.0216			448	YES	95% CI [0.0158, 0.0274]
+A3_Hem_168	ITS Hemicellulose 7d: EAF > 0	Bootstrap 95% CI	EAF=-0.0356			491	NO	95% CI [-0.0418, -0.0293]
+A3_Hem_336	ITS Hemicellulose 14d: EAF > 0	Bootstrap 95% CI	EAF=0.0327			471	YES	95% CI [0.0247, 0.0406]
+A3_Hem_672	ITS Hemicellulose 28d: EAF > 0	Bootstrap 95% CI	EAF=0.0272			397	YES	95% CI [0.0167, 0.0377]
+B1	Monomer PCo1 peak (3-7d) vs control	Mann-Whitney U (one-sided)	U=60, mean_peak=0.121	2.58e-04		15 vs 4	YES	
+B2	Monomer PCo1 peak vs own 2h baseline	Mann-Whitney U (one-sided)	U=90	1.84e-05		15 vs 6	YES	
+C1	k=3 clustering explains transcriptional variance	Pseudo-F (k-means)	R2=0.362, F=836.9			2959	YES	k=3, n=2959 KOs
+C2_2h	Programs differ at 2h (monomer)	Kruskal-Wallis	H=606.7	1.83e-132		937+902+1120	YES	
+C2_8h	Programs differ at 8h (monomer)	Kruskal-Wallis	H=591.5	3.62e-129		937+902+1120	YES	
+C2_1d	Programs differ at 1d (monomer)	Kruskal-Wallis	H=1062.8	1.64e-231		937+902+1120	YES	
+C2_3d	Programs differ at 3d (monomer)	Kruskal-Wallis	H=1893.7	0.00e+00		937+902+1120	YES	
+C2_7d	Programs differ at 7d (monomer)	Kruskal-Wallis	H=1983.2	0.00e+00		937+902+1120	YES	
+C2_14d	Programs differ at 14d (monomer)	Kruskal-Wallis	H=1672.2	0.00e+00		937+902+1120	YES	
+C3_P1>P2	P1>P2 at 3d monomer	Mann-Whitney U (one-sided)	U=584990	1.78e-46		937 vs 902	YES	
+C3_P1>P3	P1>P3 at 3d monomer	Mann-Whitney U (one-sided)	U=1030627	0.00e+00		937 vs 1120	YES	
+C3_P2>P3	P2>P3 at 3d monomer	Mann-Whitney U (one-sided)	U=954236	7.73e-260		902 vs 1120	YES	
+C4	Programs differ in peak timing (monomer)	Kruskal-Wallis	H=734.5	3.22e-160		2959	YES	P1 median=72h, P2 median=336h, P3 median=24h
+C5	Programs have distinct functional composition	Chi-square	chi2=2506.4, dof=60	0.00e+00		2959	YES	
+C6	Programs have distinct domain composition	Chi-square	chi2=380.7, dof=12	4.59e-74		2959	YES	
+D1	P1 x NAA (glucose)	Spearman (exact permutation)	rho=0.986	0.0028	0.1417	6	YES	Exact P from full permutation enumeration (720 perms for n=6)
+D2	P1 x Succinate (glucose)	Spearman (exact permutation)	rho=0.943	0.0167	0.2429	6	YES	Exact P from full permutation enumeration (720 perms for n=6)
+D3	P2 x Aspartate (glucose)	Spearman (exact permutation)	rho=1.000	0.0028	0.1417	6	YES	Exact P from full permutation enumeration (720 perms for n=6)
+D4	P2 x Fungal EAF (glucose)	Spearman	rho=1.000	0.0000		6	YES	
+D5	P1 x Fungal EAF (glucose) — expect NS	Spearman	rho=0.371	0.4685		6	NO	
+D6	P3 LFC vs time under hemicellulose (constitutive)	Spearman	rho=0.571	0.1802		7	NO	Supports constitutive expression claim
+D7	CO2 rate increases over time (hemicellulose)	Spearman	rho=0.893	0.0068		7	YES	
+E1_Fum_dip	Fumarate 3d > 7d (glucose)	Mann-Whitney U	U=16	0.0143		4 vs 4	YES	
+E1_Fum_rec	Fumarate 14d > 7d recovery (glucose)	Mann-Whitney U	U=8	0.5571		4 vs 4	NO	Recovery not significant
+E1_Mal_dip	Malate 3d > 7d (glucose)	Mann-Whitney U	U=16	0.0143		4 vs 4	YES	
+E1_Mal_rec	Malate 14d > 7d recovery (glucose)	Mann-Whitney U	U=14	0.0571		4 vs 4	NO	Recovery not significant
+F1_2	Monomer vs hemicellulose at 2h	PERMANOVA (9999 perm)	F=3.41, R2=0.328	0.0131	0.0157	9	YES	
+F1_8	Monomer vs hemicellulose at 8h	PERMANOVA (9999 perm)	F=3.11, R2=0.257	0.0250	0.0250	11	YES	
+F1_24	Monomer vs hemicellulose at 1d	PERMANOVA (9999 perm)	F=5.75, R2=0.451	0.0131	0.0157	9	YES	
+F1_72	Monomer vs hemicellulose at 3d	PERMANOVA (9999 perm)	F=10.16, R2=0.530	0.0052	0.0104	11	YES	
+F1_168	Monomer vs hemicellulose at 7d	PERMANOVA (9999 perm)	F=9.91, R2=0.524	0.0022	0.0104	11	YES	
+F1_336	Monomer vs hemicellulose at 14d	PERMANOVA (9999 perm)	F=8.09, R2=0.473	0.0052	0.0104	11	YES	
+F2_treatment	PERMANOVA treatment effect	PERMANOVA	F=16.34, R2=0.203	0.0001			YES	
+F2_time	PERMANOVA time effect	PERMANOVA	F=6.09, R2=0.383	0.0001			YES	
+F2_treatment_x_time	PERMANOVA treatment_x_time effect	PERMANOVA	F=8.60, R2=0.661	0.0001			YES	
+F2_interaction_residual	PERMANOVA interaction_residual effect	PERMANOVA	R2=0.075	derived				

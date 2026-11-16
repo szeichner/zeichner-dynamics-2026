@@ -1,0 +1,94 @@
+guild	treatment_label	timepoint	mean_EAF	n_ASVs	pct_pos
+"Aerobic heterotrophs
+(reference)"	Glucose	2.0	0.013629021839179495	56	73.21428571428571
+"Aerobic heterotrophs
+(reference)"	Glucose	8.0	0.0765480741951	45	91.11111111111111
+"Aerobic heterotrophs
+(reference)"	Glucose	24.0	0.13790525186788055	38	94.73684210526315
+"Aerobic heterotrophs
+(reference)"	Glucose	72.0	0.09867801243748338	56	85.71428571428571
+"Aerobic heterotrophs
+(reference)"	Glucose	168.0	0.10954382191334315	31	80.64516129032258
+"Aerobic heterotrophs
+(reference)"	Glucose	336.0	0.158459820700808	51	90.19607843137256
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	2.0	-0.009633961696192739	66	57.57575757575758
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	8.0	0.05264652803973315	43	86.04651162790698
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	24.0	0.04179823876632616	47	82.97872340425532
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	72.0	0.07638014093103083	47	89.36170212765957
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	168.0	0.06361212743188514	38	86.8421052631579
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	336.0	0.125117396111692	52	98.07692307692307
+"Aerobic heterotrophs
+(reference)"	Hemicellulose	672.0	0.1250848818985361	58	93.10344827586206
+"Aerobic heterotrophs
+(reference)"	Xylose	2.0	0.0556459143492526	29	89.65517241379311
+"Aerobic heterotrophs
+(reference)"	Xylose	8.0	0.0753300367169442	44	95.45454545454545
+"Aerobic heterotrophs
+(reference)"	Xylose	24.0	0.05643715416404111	70	82.85714285714286
+"Aerobic heterotrophs
+(reference)"	Xylose	72.0	0.07241244914270324	49	89.79591836734694
+"Aerobic heterotrophs
+(reference)"	Xylose	168.0	0.04561232043560802	65	80.0
+"Aerobic heterotrophs
+(reference)"	Xylose	336.0	0.020467783208062095	73	69.86301369863014
+Fe(III) reducers	Glucose	72.0	0.29645250585180905	2	100.0
+Fe(III) reducers	Glucose	168.0	0.1917740622699669	1	100.0
+Fe(III) reducers	Glucose	336.0	0.38258017151160156	3	100.0
+Fe(III) reducers	Hemicellulose	2.0	0.0662701357216046	1	100.0
+Fe(III) reducers	Hemicellulose	24.0	-0.1102861742932613	1	0.0
+Fe(III) reducers	Hemicellulose	72.0	0.3566753187171054	5	100.0
+Fe(III) reducers	Hemicellulose	168.0	0.24815997627952827	15	80.0
+Fe(III) reducers	Hemicellulose	336.0	0.2959138592148447	16	93.75
+Fe(III) reducers	Hemicellulose	672.0	0.33641653632710644	16	93.75
+Fe(III) reducers	Xylose	24.0	-0.12299027687078233	4	25.0
+Fe(III) reducers	Xylose	72.0	-0.1020085531492263	1	0.0
+Fe(III) reducers	Xylose	168.0	0.06952103574802775	2	50.0
+Fe(III) reducers	Xylose	336.0	0.03746582303262316	3	66.66666666666666
+Fermenters (obligate)	Glucose	2.0	-0.01821252695185175	2	50.0
+Fermenters (obligate)	Glucose	8.0	0.029202903754408666	3	66.66666666666666
+Fermenters (obligate)	Glucose	24.0	0.002896124664936881	5	80.0
+Fermenters (obligate)	Glucose	72.0	0.3539432717859937	13	84.61538461538461
+Fermenters (obligate)	Glucose	168.0	0.14554800216417446	11	81.81818181818183
+Fermenters (obligate)	Glucose	336.0	0.1613307166340698	18	83.33333333333334
+Fermenters (obligate)	Hemicellulose	2.0	0.05819249070922805	5	80.0
+Fermenters (obligate)	Hemicellulose	8.0	-0.0290378693730771	2	0.0
+Fermenters (obligate)	Hemicellulose	24.0	-0.005346466983806219	5	60.0
+Fermenters (obligate)	Hemicellulose	72.0	0.19446195675316136	12	75.0
+Fermenters (obligate)	Hemicellulose	168.0	0.12077729320926177	19	78.94736842105263
+Fermenters (obligate)	Hemicellulose	336.0	0.25660135570437687	35	82.85714285714286
+Fermenters (obligate)	Hemicellulose	672.0	0.22392627652871405	40	80.0
+Fermenters (obligate)	Xylose	2.0	0.09457082375980905	2	100.0
+Fermenters (obligate)	Xylose	8.0	0.057464674429010196	2	100.0
+Fermenters (obligate)	Xylose	24.0	0.006443899027473704	10	50.0
+Fermenters (obligate)	Xylose	72.0	-0.08385756061304167	13	30.76923076923077
+Fermenters (obligate)	Xylose	168.0	0.08161537078603426	19	57.89473684210527
+Fermenters (obligate)	Xylose	336.0	0.06760042642016537	28	67.85714285714286
+Methanogens	Glucose	2.0	0.03216154143707514	2	50.0
+Methanogens	Glucose	8.0	0.12440589971933975	2	100.0
+Methanogens	Glucose	24.0	0.1883535732173169	1	100.0
+Methanogens	Glucose	72.0	0.023268946716941147	2	50.0
+Methanogens	Glucose	168.0	-0.0399713498333997	1	0.0
+Methanogens	Hemicellulose	2.0	-0.0506528891598482	1	0.0
+Methanogens	Hemicellulose	24.0	-0.2112317550777982	1	0.0
+Methanogens	Hemicellulose	336.0	0.1045065468048513	1	100.0
+Methanogens	Hemicellulose	672.0	-0.0243601912897497	1	0.0
+Methanogens	Xylose	24.0	0.0862907024392712	2	100.0
+Methanogens	Xylose	168.0	-0.00039181025553690005	2	50.0
+Methanogens	Xylose	336.0	0.1010329509745913	2	100.0
+Microaerophiles	Glucose	24.0	-0.5173130950603303	1	0.0
+Microaerophiles	Glucose	72.0	-0.0388361087703927	1	0.0
+Microaerophiles	Hemicellulose	72.0	0.2798123791830146	1	100.0
+Microaerophiles	Hemicellulose	168.0	0.2251143995555628	1	100.0
+Microaerophiles	Hemicellulose	336.0	0.0526852661076511	1	100.0
+Microaerophiles	Hemicellulose	672.0	0.1811188252401339	1	100.0
+Microaerophiles	Xylose	336.0	-0.16342017752951	1	0.0
+Sulfate/S reducers	Glucose	336.0	0.33211388965536565	3	100.0
+Sulfate/S reducers	Hemicellulose	336.0	0.24758462620105193	3	100.0
+Sulfate/S reducers	Hemicellulose	672.0	0.0727447529545084	2	100.0
+Sulfate/S reducers	Xylose	336.0	0.0921434820528248	1	100.0

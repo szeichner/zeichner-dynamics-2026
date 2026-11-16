@@ -1,0 +1,13 @@
+panel	program	marker	treatment	bin_label	spearman_rho	spearman_p	n_timepoints
+P1_monomer_growth	P_EARLY_MONO	16S	monomer_pooled	>1%	0.600000	0.208000	6
+P1_monomer_growth	P_EARLY_MONO	16S	monomer_pooled	0.1-1%	-0.371429	0.468478	6
+P1_monomer_growth	P_EARLY_MONO	16S	monomer_pooled	0.01-0.1%	-0.485714	0.328723	6
+P1_monomer_growth	P_EARLY_MONO	16S	monomer_pooled	<0.01%	-0.142857	0.787172	6
+P2_late_succession	P_LATE_MONO	ITS	monomer_pooled	>1%	0.942857	0.004805	6
+P2_late_succession	P_LATE_MONO	ITS	monomer_pooled	0.1-1%	0.942857	0.004805	6
+P2_late_succession	P_LATE_MONO	ITS	monomer_pooled	0.01-0.1%	0.657143	0.156175	6
+P2_late_succession	P_LATE_MONO	ITS	monomer_pooled	<0.01%	-0.085714	0.871743	6
+P3_hemicellulose	P_HEMI	16S	Hemicellulose	>1%	-0.107143	0.819151	7
+P3_hemicellulose	P_HEMI	16S	Hemicellulose	0.1-1%	0.392857	0.383317	7
+P3_hemicellulose	P_HEMI	16S	Hemicellulose	0.01-0.1%	0.428571	0.337368	7
+P3_hemicellulose	P_HEMI	16S	Hemicellulose	<0.01%	0.571429	0.180202	7

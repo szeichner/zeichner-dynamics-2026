@@ -1,0 +1,47 @@
+# Table S21. Hexose vs pentose catabolic transcript investment.
+# Source: notebooks/13-pentose-transcription.ipynb
+# 45 samples (24 GLUCOSE + 21 XYLOSE) across 6 timepoints (2-336 h)
+# KO-level VST expression from DESeq2 (treatment + time_hours design)
+#
+# KEY FINDING: pentose-specific entry machinery is expressed at levels
+# >= canonical hexose catabolism, stable across all timepoints and
+# identical in glucose- and xylose-amended communities. There is no
+# transcriptional bias against pentose catabolism.
+#
+
+## A. Per-pathway VST summary
+category	pathway	n_genes	n_observations	mean_vst	median_vst	sd_vst
+Hexose	Glycolysis (EMP)	13	585	7.312	7.376	1.52
+Hexose	Entner-Doudoroff	4	180	6.948	6.385	1.329
+Hexose	Glucose PTS transport	4	180	4.463	4.42	0.424
+Pentose	Xylose isomerase + xylulokinase	2	90	7.571	7.495	0.786
+Pentose	Arabinose isomerase + kinase	2	90	5.594	5.503	0.446
+Pentose	PPP non-oxidative branch	4	180	8.091	7.874	1.672
+Pentose	Xylose ABC transport	3	135	8.227	7.717	1.228
+
+## B. Paired hex-vs-pent comparisons (n=45)
+comparison_level	hexose_group	hexose_n_genes	hexose_mean_vst	pentose_group	pentose_n_genes	pentose_mean_vst	delta_vst_hex_minus_pent	fold_change_hex_over_pent	paired_t_statistic	paired_p_value	interpretation
+All inclusive	Hexose catabolism (upper glycolysis + ED + glucose transport)	14	6.266	Pentose entry (isomerases/kinases + PPP + xylose transport)	11	7.579	-1.314	0.4	-52.012	< 1e-30	Pentose entry expressed 2.5-fold higher overall
+Core catabolism (no transport)	Upper glycolysis + ED pathway	10	6.987	Pentose isomerases/kinases + PPP non-oxidative	8	7.337	-0.35	0.78	-14.993	< 1e-20	Pentose core 1.27-fold higher than hexose core
+Sugar transport only	Glucose PTS transport (crr, ptsG, malX, glcA)	4	4.463	Xylose ABC transport (xylF, xylG, xylH)	3	8.227	-3.764	0.07	-42.602	2.06e-37	Xylose ABC transport 13.6-fold higher than glucose PTS
+Sugar isomerase (first committed step)	pgi (K01810, glucose-6-P isomerase)	1	8.185	xylA (K01805, xylose isomerase)	1	8.265	-0.08	0.94	-1.463	0.151	pgi and xylA expression statistically indistinguishable
+Sugar kinase (matched analogs)	glk + HK + pfkA	3	6.061	xylB + araB	2	6.12	-0.06	0.96		0.259	Hexose and pentose kinase expression equivalent
+Most striking individual contrast	glk (K00845, glucokinase)	1	6.004	xylA (K01805, xylose isomerase)	1	8.265	-2.26	0.21	-30.555	2.88e-31	xylA transcript 4.79-fold more abundant than glk
+
+## C. Treatment-specific breakdown
+treatment	comparison_level	hexose_mean_vst	pentose_mean_vst	delta_vst_hex_minus_pent	fold_change_hex_over_pent	paired_p_value
+GLUCOSE	Core catabolism (no transport)	6.965	7.335	-0.37	0.77	< 1e-10
+XYLOSE	Core catabolism (no transport)	7.012	7.339	-0.327	0.8	< 1e-10
+GLUCOSE	Transport only	4.423	8.16	-3.737	0.08	< 1e-30
+XYLOSE	Transport only	4.508	8.303	-3.795	0.07	< 1e-30
+GLUCOSE	All inclusive	6.239	7.56	-1.321	0.4	< 1e-30
+XYLOSE	All inclusive	6.297	7.602	-1.305	0.4	< 1e-30
+
+## D. Temporal stability
+timepoint_hours	n_samples	hexose_core_mean_vst	pentose_core_mean_vst	delta_vst_hex_minus_pent	fold_change_hex_over_pent	paired_p_value
+2	7	6.88	7.308	-0.428	0.74	0.001
+8	8	7.02	7.213	-0.193	0.87	0.001
+24	6	6.975	7.199	-0.225	0.86	0.0058
+72	8	7.102	7.577	-0.475	0.72	< 1e-4
+168	8	7.021	7.429	-0.408	0.75	< 1e-4
+336	8	6.906	7.255	-0.349	0.79	< 1e-4

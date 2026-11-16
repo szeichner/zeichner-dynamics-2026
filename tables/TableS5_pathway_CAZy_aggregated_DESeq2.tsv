@@ -1,0 +1,261 @@
+group_name	annotation_type	n_KO_defined	n_detected	treatment	timepoint_hours	mean_log2FC	median_log2FC	SD_log2FC	n_significant	frac_significant	pathway_significant
+Glycolysis	KO	13	13	CELLULOSE	2	0.027	0.0916	0.4275	0	0.0	no
+Glycolysis	KO	13	13	CELLULOSE	8	0.0419	0.0027	0.3166	0	0.0	no
+Glycolysis	KO	13	13	CELLULOSE	24	0.0407	0.0001	0.3006	0	0.0	no
+Glycolysis	KO	13	13	CELLULOSE	72	0.3436	0.3913	0.3587	6	0.462	yes
+Glycolysis	KO	13	13	CELLULOSE	168	0.0618	0.1817	0.4118	3	0.231	yes
+Glycolysis	KO	13	13	CELLULOSE	336	0.2846	0.1859	0.3733	2	0.154	no
+Glycolysis	KO	13	13	CELLULOSE	672	0.4474	0.4899	0.4652	7	0.538	yes
+Glycolysis	KO	13	13	GLUCOSE	2	0.1846	0.194	0.5694	6	0.462	yes
+Glycolysis	KO	13	13	GLUCOSE	8	0.3636	0.3161	0.4621	7	0.538	yes
+Glycolysis	KO	13	13	GLUCOSE	24	0.2155	0.3195	0.533	6	0.462	yes
+Glycolysis	KO	13	13	GLUCOSE	72	0.5564	0.6242	0.5578	9	0.692	yes
+Glycolysis	KO	13	13	GLUCOSE	168	0.6167	0.5775	0.7862	9	0.692	yes
+Glycolysis	KO	13	13	GLUCOSE	336	0.489	0.3571	0.5818	7	0.538	yes
+Glycolysis	KO	13	13	XYLOSE	2	0.3637	0.3526	0.4092	6	0.462	yes
+Glycolysis	KO	13	13	XYLOSE	8	0.4423	0.4532	0.4468	7	0.538	yes
+Glycolysis	KO	13	13	XYLOSE	24	0.3564	0.3787	0.7173	6	0.462	yes
+Glycolysis	KO	13	13	XYLOSE	72	0.6154	0.6072	0.4746	10	0.769	yes
+Glycolysis	KO	13	13	XYLOSE	168	0.5171	0.5444	0.6095	9	0.692	yes
+Glycolysis	KO	13	13	XYLOSE	336	0.4554	0.3251	0.59	7	0.538	yes
+Glycolysis	KO	13	13	basal	0	-0.133	-0.0608	0.2752	1	0.077	no
+TCA cycle	KO	14	14	CELLULOSE	2	0.11	0.2085	0.3257	3	0.214	yes
+TCA cycle	KO	14	14	CELLULOSE	8	0.159	0.1587	0.1339	0	0.0	no
+TCA cycle	KO	14	14	CELLULOSE	24	0.0694	0.0905	0.1658	0	0.0	no
+TCA cycle	KO	14	14	CELLULOSE	72	0.1075	0.0704	0.2101	0	0.0	no
+TCA cycle	KO	14	14	CELLULOSE	168	-0.059	0.0106	0.2921	1	0.071	no
+TCA cycle	KO	14	14	CELLULOSE	336	-0.0195	-0.0941	0.3929	1	0.071	no
+TCA cycle	KO	14	14	CELLULOSE	672	-0.0452	0.025	0.4748	1	0.071	no
+TCA cycle	KO	14	14	GLUCOSE	2	0.3812	0.2881	0.2257	5	0.357	yes
+TCA cycle	KO	14	14	GLUCOSE	8	0.2783	0.2314	0.3262	3	0.214	yes
+TCA cycle	KO	14	14	GLUCOSE	24	0.2406	0.2001	0.2275	4	0.286	yes
+TCA cycle	KO	14	14	GLUCOSE	72	0.5855	0.4118	0.5457	8	0.571	yes
+TCA cycle	KO	14	14	GLUCOSE	168	0.6275	0.3777	0.6478	9	0.643	yes
+TCA cycle	KO	14	14	GLUCOSE	336	0.1488	-0.0168	0.5059	3	0.214	yes
+TCA cycle	KO	14	14	XYLOSE	2	0.3631	0.2642	0.2901	2	0.143	no
+TCA cycle	KO	14	14	XYLOSE	8	0.3688	0.2714	0.322	5	0.357	yes
+TCA cycle	KO	14	14	XYLOSE	24	0.3821	0.3342	0.2932	4	0.286	yes
+TCA cycle	KO	14	14	XYLOSE	72	0.4644	0.3519	0.4048	7	0.5	yes
+TCA cycle	KO	14	14	XYLOSE	168	0.5212	0.2871	0.6126	7	0.5	yes
+TCA cycle	KO	14	14	XYLOSE	336	0.1422	0.0074	0.4984	3	0.214	yes
+TCA cycle	KO	14	14	basal	0	-0.1546	-0.0769	0.2163	0	0.0	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	2	-0.1891	-0.1686	0.1004	1	0.333	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	8	0.0521	-0.052	0.2262	0	0.0	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	24	0.0509	0.057	0.1149	0	0.0	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	72	0.222	0.3065	0.4839	2	0.667	yes
+Entner-Doudoroff	KO	3	3	CELLULOSE	168	0.1828	0.0802	0.2913	0	0.0	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	336	-0.047	-0.211	0.2905	0	0.0	no
+Entner-Doudoroff	KO	3	3	CELLULOSE	672	-0.2134	-0.2697	0.6325	1	0.333	no
+Entner-Doudoroff	KO	3	3	GLUCOSE	2	0.8838	0.6012	0.9626	2	0.667	yes
+Entner-Doudoroff	KO	3	3	GLUCOSE	8	0.7385	0.3757	0.8926	1	0.333	no
+Entner-Doudoroff	KO	3	3	GLUCOSE	24	0.9134	0.6807	1.0109	2	0.667	yes
+Entner-Doudoroff	KO	3	3	GLUCOSE	72	0.8702	0.7243	0.6183	3	1.0	yes
+Entner-Doudoroff	KO	3	3	GLUCOSE	168	0.6963	0.4502	0.5838	2	0.667	yes
+Entner-Doudoroff	KO	3	3	GLUCOSE	336	0.3693	0.3412	0.5512	1	0.333	no
+Entner-Doudoroff	KO	3	3	XYLOSE	2	0.9615	0.6695	0.983	2	0.667	yes
+Entner-Doudoroff	KO	3	3	XYLOSE	8	0.9682	0.6565	1.0749	2	0.667	yes
+Entner-Doudoroff	KO	3	3	XYLOSE	24	0.8849	0.6023	0.988	1	0.333	no
+Entner-Doudoroff	KO	3	3	XYLOSE	72	1.1852	1.0283	0.9634	3	1.0	yes
+Entner-Doudoroff	KO	3	3	XYLOSE	168	0.6948	0.4273	0.6923	1	0.333	no
+Entner-Doudoroff	KO	3	3	XYLOSE	336	0.306	0.4944	0.4041	1	0.333	no
+Entner-Doudoroff	KO	3	3	basal	0	-0.0521	-0.0438	0.1865	0	0.0	no
+Phosphoketolase	KO	4	4	CELLULOSE	2	0.5156	0.6487	0.5212	2	0.5	yes
+Phosphoketolase	KO	4	4	CELLULOSE	8	0.4003	0.4856	0.2995	2	0.5	yes
+Phosphoketolase	KO	4	4	CELLULOSE	24	0.4034	0.476	0.2532	1	0.25	no
+Phosphoketolase	KO	4	4	CELLULOSE	72	0.5279	0.7387	0.4647	3	0.75	yes
+Phosphoketolase	KO	4	4	CELLULOSE	168	0.2733	0.3529	0.3266	1	0.25	no
+Phosphoketolase	KO	4	4	CELLULOSE	336	0.2223	0.2325	0.1807	1	0.25	no
+Phosphoketolase	KO	4	4	CELLULOSE	672	0.1743	0.1812	0.2998	1	0.25	no
+Phosphoketolase	KO	4	4	GLUCOSE	2	0.5525	0.5081	0.3932	3	0.75	yes
+Phosphoketolase	KO	4	4	GLUCOSE	8	0.2719	0.2282	0.2049	1	0.25	no
+Phosphoketolase	KO	4	4	GLUCOSE	24	0.3555	0.4586	0.2368	2	0.5	yes
+Phosphoketolase	KO	4	4	GLUCOSE	72	0.5897	0.6146	0.0985	4	1.0	yes
+Phosphoketolase	KO	4	4	GLUCOSE	168	0.4584	0.5111	0.1437	3	0.75	yes
+Phosphoketolase	KO	4	4	GLUCOSE	336	0.4419	0.5508	0.3698	3	0.75	yes
+Phosphoketolase	KO	4	4	XYLOSE	2	0.5321	0.5073	0.3482	2	0.5	yes
+Phosphoketolase	KO	4	4	XYLOSE	8	0.5388	0.5272	0.3164	3	0.75	yes
+Phosphoketolase	KO	4	4	XYLOSE	24	0.4826	0.505	0.1959	2	0.5	yes
+Phosphoketolase	KO	4	4	XYLOSE	72	0.7809	0.8217	0.2353	4	1.0	yes
+Phosphoketolase	KO	4	4	XYLOSE	168	0.4679	0.4957	0.1102	4	1.0	yes
+Phosphoketolase	KO	4	4	XYLOSE	336	0.3627	0.447	0.2935	2	0.5	yes
+Phosphoketolase	KO	4	4	basal	0	0.4947	0.5486	0.3351	2	0.5	yes
+Fermentation	KO	10	9	CELLULOSE	2	1.2409	0.8778	1.4491	5	0.556	yes
+Fermentation	KO	10	9	CELLULOSE	8	0.8914	0.7653	1.2404	5	0.556	yes
+Fermentation	KO	10	9	CELLULOSE	24	0.8035	0.5686	1.3127	3	0.333	yes
+Fermentation	KO	10	9	CELLULOSE	72	1.3078	0.8436	1.5933	5	0.556	yes
+Fermentation	KO	10	9	CELLULOSE	168	0.8517	0.6367	1.3413	6	0.667	yes
+Fermentation	KO	10	9	CELLULOSE	336	0.6051	0.3936	1.3009	1	0.111	no
+Fermentation	KO	10	9	CELLULOSE	672	0.8427	0.5467	1.4985	5	0.556	yes
+Fermentation	KO	10	9	GLUCOSE	2	1.1502	0.7635	1.3853	4	0.444	yes
+Fermentation	KO	10	9	GLUCOSE	8	0.8582	0.4908	1.1602	3	0.333	yes
+Fermentation	KO	10	9	GLUCOSE	24	0.9584	0.4763	1.4772	4	0.444	yes
+Fermentation	KO	10	9	GLUCOSE	72	1.2061	1.2962	1.8003	5	0.556	yes
+Fermentation	KO	10	9	GLUCOSE	168	1.3746	0.888	1.6018	5	0.556	yes
+Fermentation	KO	10	9	GLUCOSE	336	1.1501	0.6932	1.4565	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	2	1.2458	0.8131	1.3382	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	8	1.1668	0.8498	1.4869	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	24	1.2555	0.8045	1.6258	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	72	1.5581	1.4575	1.8506	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	168	1.3069	0.9677	1.5836	5	0.556	yes
+Fermentation	KO	10	9	XYLOSE	336	1.1485	0.886	1.5175	6	0.667	yes
+Fermentation	KO	10	9	basal	0	0.0053	-0.0618	0.628	2	0.222	yes
+Substrate acquisition	KO	7	7	CELLULOSE	2	-0.1309	-0.2227	0.4333	0	0.0	no
+Substrate acquisition	KO	7	7	CELLULOSE	8	-0.0473	0.0411	0.4315	0	0.0	no
+Substrate acquisition	KO	7	7	CELLULOSE	24	-0.1284	0.0486	0.5443	0	0.0	no
+Substrate acquisition	KO	7	7	CELLULOSE	72	-0.4393	-0.2654	0.6661	0	0.0	no
+Substrate acquisition	KO	7	7	CELLULOSE	168	-0.2891	-0.389	0.2421	1	0.143	no
+Substrate acquisition	KO	7	7	CELLULOSE	336	-0.3521	-0.2238	0.2655	1	0.143	no
+Substrate acquisition	KO	7	7	CELLULOSE	672	-0.4877	-0.3363	0.4129	1	0.143	no
+Substrate acquisition	KO	7	7	GLUCOSE	2	-0.5838	-0.3943	0.5081	2	0.286	yes
+Substrate acquisition	KO	7	7	GLUCOSE	8	-0.7077	-0.6434	0.6818	3	0.429	yes
+Substrate acquisition	KO	7	7	GLUCOSE	24	-0.9918	-1.1295	0.5876	4	0.571	yes
+Substrate acquisition	KO	7	7	GLUCOSE	72	-1.2615	-1.4463	0.7873	5	0.714	yes
+Substrate acquisition	KO	7	7	GLUCOSE	168	-1.8343	-1.7484	0.6498	6	0.857	yes
+Substrate acquisition	KO	7	7	GLUCOSE	336	-0.6495	-0.6018	0.2256	3	0.429	yes
+Substrate acquisition	KO	7	7	XYLOSE	2	-0.7646	-0.5133	0.9311	1	0.143	no
+Substrate acquisition	KO	7	7	XYLOSE	8	-0.4178	-0.3482	0.4478	1	0.143	no
+Substrate acquisition	KO	7	7	XYLOSE	24	-0.8675	-0.7932	0.8378	3	0.429	yes
+Substrate acquisition	KO	7	7	XYLOSE	72	-1.0968	-1.2321	0.6387	5	0.714	yes
+Substrate acquisition	KO	7	7	XYLOSE	168	-1.4645	-1.587	0.7599	6	0.857	yes
+Substrate acquisition	KO	7	7	XYLOSE	336	-0.9925	-0.5556	1.1293	2	0.286	yes
+Substrate acquisition	KO	7	7	basal	0	-0.0868	-0.1227	0.176	0	0.0	no
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	2	0.5403	0.4676	0.4588	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	8	0.1722	0.1582	0.6904	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	24	0.9092	0.476	1.1281	0	0.0	no
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	72	1.8773	0.7619	2.2074	2	0.333	yes
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	168	1.9172	1.0541	2.0835	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	336	2.4122	1.8731	2.5596	2	0.333	yes
+Acetoclastic methanogenesis	KO	7	6	CELLULOSE	672	3.2204	2.8088	3.3128	3	0.5	yes
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	2	0.6129	0.749	0.3908	2	0.333	yes
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	8	0.33	0.1414	0.6141	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	24	1.4203	0.4806	1.8965	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	72	2.0455	0.7795	2.3899	4	0.667	yes
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	168	1.933	0.7116	2.2954	3	0.5	yes
+Acetoclastic methanogenesis	KO	7	6	GLUCOSE	336	2.2253	0.8088	2.6633	4	0.667	yes
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	2	0.0948	-0.104	0.3198	1	0.167	no
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	8	0.2338	0.1719	0.266	2	0.333	yes
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	24	1.3741	0.505	1.8908	2	0.333	yes
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	72	2.3255	1.3168	2.3232	4	0.667	yes
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	168	1.7028	0.5384	1.9998	3	0.5	yes
+Acetoclastic methanogenesis	KO	7	6	XYLOSE	336	2.3633	1.8221	2.3815	5	0.833	yes
+Acetoclastic methanogenesis	KO	7	6	basal	0	0.8224	0.9444	0.7884	3	0.5	yes
+Cellulases	KO_keyword	11	11	CELLULOSE	2	-0.0526	-0.1484	0.813	0	0.0	no
+Cellulases	KO_keyword	11	11	CELLULOSE	8	0.0969	0.0105	0.4579	0	0.0	no
+Cellulases	KO_keyword	11	11	CELLULOSE	24	-0.002	0.0678	0.9553	0	0.0	no
+Cellulases	KO_keyword	11	11	CELLULOSE	72	0.5858	0.3065	1.2495	1	0.091	no
+Cellulases	KO_keyword	11	11	CELLULOSE	168	0.5751	0.318	0.7322	2	0.182	no
+Cellulases	KO_keyword	11	11	CELLULOSE	336	1.4761	1.212	1.2621	4	0.364	yes
+Cellulases	KO_keyword	11	11	CELLULOSE	672	1.6067	1.6887	1.1539	5	0.455	yes
+Cellulases	KO_keyword	11	11	GLUCOSE	2	0.0774	-0.0199	0.7713	1	0.091	no
+Cellulases	KO_keyword	11	11	GLUCOSE	8	0.195	0.0845	1.1501	2	0.182	no
+Cellulases	KO_keyword	11	11	GLUCOSE	24	0.2409	0.2482	1.2428	3	0.273	yes
+Cellulases	KO_keyword	11	11	GLUCOSE	72	1.2197	1.3321	2.1834	6	0.545	yes
+Cellulases	KO_keyword	11	11	GLUCOSE	168	1.233	1.253	1.7909	7	0.636	yes
+Cellulases	KO_keyword	11	11	GLUCOSE	336	0.9862	0.8596	1.7487	6	0.545	yes
+Cellulases	KO_keyword	11	11	XYLOSE	2	-0.3604	-0.1892	1.1491	0	0.0	no
+Cellulases	KO_keyword	11	11	XYLOSE	8	0.0133	-0.2176	0.9106	3	0.273	yes
+Cellulases	KO_keyword	11	11	XYLOSE	24	0.2812	-0.188	1.6567	4	0.364	yes
+Cellulases	KO_keyword	11	11	XYLOSE	72	1.0667	0.6994	2.0652	4	0.364	yes
+Cellulases	KO_keyword	11	11	XYLOSE	168	1.1557	0.8862	1.7241	6	0.545	yes
+Cellulases	KO_keyword	11	11	XYLOSE	336	1.0291	0.4184	1.9419	6	0.545	yes
+Cellulases	KO_keyword	11	11	basal	0	-0.0921	-0.0849	0.7805	3	0.273	yes
+Xylanases	KO_keyword	12	12	CELLULOSE	2	0.4844	0.4073	0.991	3	0.25	yes
+Xylanases	KO_keyword	12	12	CELLULOSE	8	0.4573	0.1182	1.0159	2	0.167	no
+Xylanases	KO_keyword	12	12	CELLULOSE	24	0.3174	0.1022	0.9124	2	0.167	no
+Xylanases	KO_keyword	12	12	CELLULOSE	72	0.4811	0.1359	1.3715	4	0.333	yes
+Xylanases	KO_keyword	12	12	CELLULOSE	168	0.7723	0.4934	0.9639	4	0.333	yes
+Xylanases	KO_keyword	12	12	CELLULOSE	336	1.0671	0.7155	0.9958	5	0.417	yes
+Xylanases	KO_keyword	12	12	CELLULOSE	672	0.9066	0.8281	1.2114	4	0.333	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	2	-0.3643	-0.6565	0.9462	6	0.5	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	8	-0.3141	-0.6025	1.0447	5	0.417	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	24	-0.5547	-0.8335	1.1703	6	0.5	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	72	-0.3514	-0.7255	1.3393	6	0.5	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	168	-0.4539	-0.3979	1.4977	6	0.5	yes
+Xylanases	KO_keyword	12	12	GLUCOSE	336	-0.4931	-0.3406	1.3169	4	0.333	yes
+Xylanases	KO_keyword	12	12	XYLOSE	2	-0.3857	-0.4766	0.7341	3	0.25	yes
+Xylanases	KO_keyword	12	12	XYLOSE	8	-0.7048	-0.6562	0.6624	4	0.333	yes
+Xylanases	KO_keyword	12	12	XYLOSE	24	-1.0371	-1.0067	0.6015	4	0.333	yes
+Xylanases	KO_keyword	12	12	XYLOSE	72	-0.4322	-0.744	1.2861	6	0.5	yes
+Xylanases	KO_keyword	12	12	XYLOSE	168	-0.462	-0.3458	1.4472	6	0.5	yes
+Xylanases	KO_keyword	12	12	XYLOSE	336	-0.1408	-0.256	1.3634	4	0.333	yes
+Xylanases	KO_keyword	12	12	basal	0	-0.3293	-0.5644	0.8775	4	0.333	yes
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	2	-0.5692	-0.5917	0.6561	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	8	-0.2864	-0.1683	0.6388	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	24	-0.4537	-0.1429	0.7975	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	72	-0.1764	0.0889	0.6974	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	168	-0.2811	0.128	1.2128	2	0.125	no
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	336	0.2931	0.4366	0.7954	5	0.312	yes
+Mannan_pectin	KO_keyword	16	16	CELLULOSE	672	0.3764	0.8132	1.0272	6	0.375	yes
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	2	-0.5418	-0.4121	0.7624	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	8	-0.2045	-0.0559	1.0941	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	24	-0.5345	-0.3074	0.9859	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	72	-0.3735	-0.3529	0.7869	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	168	-0.2212	-0.2225	1.2457	4	0.25	yes
+Mannan_pectin	KO_keyword	16	16	GLUCOSE	336	0.0664	0.1934	1.2251	3	0.188	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	2	-0.2764	-0.1788	1.0722	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	8	-0.2621	-0.107	0.7094	0	0.0	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	24	-0.397	-0.2657	0.9256	1	0.062	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	72	-0.6832	-0.2631	1.2416	1	0.062	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	168	-0.337	-0.6999	1.0894	3	0.188	no
+Mannan_pectin	KO_keyword	16	16	XYLOSE	336	0.1067	0.2355	1.2577	4	0.25	yes
+Mannan_pectin	KO_keyword	16	16	basal	0	-0.4382	-0.5297	0.701	0	0.0	no
+Amylases	KO_keyword	13	13	CELLULOSE	2	-0.4496	-0.4462	0.5529	2	0.154	no
+Amylases	KO_keyword	13	13	CELLULOSE	8	-0.272	-0.0932	0.5764	2	0.154	no
+Amylases	KO_keyword	13	13	CELLULOSE	24	-0.1523	-0.2001	0.7415	2	0.154	no
+Amylases	KO_keyword	13	13	CELLULOSE	72	0.0613	-0.129	0.9656	2	0.154	no
+Amylases	KO_keyword	13	13	CELLULOSE	168	0.0853	-0.0853	0.6026	0	0.0	no
+Amylases	KO_keyword	13	13	CELLULOSE	336	0.0813	-0.0358	0.7454	2	0.154	no
+Amylases	KO_keyword	13	13	CELLULOSE	672	0.1879	0.1428	0.8761	3	0.231	yes
+Amylases	KO_keyword	13	13	GLUCOSE	2	-0.0511	-0.2438	0.8674	2	0.154	no
+Amylases	KO_keyword	13	13	GLUCOSE	8	-0.424	-0.357	0.2931	1	0.077	no
+Amylases	KO_keyword	13	13	GLUCOSE	24	-0.4476	-0.4275	0.3311	3	0.231	yes
+Amylases	KO_keyword	13	13	GLUCOSE	72	-0.303	0.0795	1.3502	6	0.462	yes
+Amylases	KO_keyword	13	13	GLUCOSE	168	-0.2283	-0.359	0.9384	6	0.462	yes
+Amylases	KO_keyword	13	13	GLUCOSE	336	-0.1171	-0.3456	1.3553	5	0.385	yes
+Amylases	KO_keyword	13	13	XYLOSE	2	-0.367	-0.349	0.475	1	0.077	no
+Amylases	KO_keyword	13	13	XYLOSE	8	-0.4041	-0.3747	0.4193	2	0.154	no
+Amylases	KO_keyword	13	13	XYLOSE	24	-0.359	-0.34	1.082	2	0.154	no
+Amylases	KO_keyword	13	13	XYLOSE	72	-0.2563	-0.6776	1.1471	7	0.538	yes
+Amylases	KO_keyword	13	13	XYLOSE	168	-0.4699	-0.5411	0.8926	5	0.385	yes
+Amylases	KO_keyword	13	13	XYLOSE	336	-0.0465	-0.1922	1.0277	4	0.308	yes
+Amylases	KO_keyword	13	13	basal	0	-0.4349	-0.4582	0.6895	2	0.154	no
+Chitinases	KO_keyword	12	12	CELLULOSE	2	-0.4341	-0.525	0.9198	1	0.083	no
+Chitinases	KO_keyword	12	12	CELLULOSE	8	-0.241	-0.279	0.8215	0	0.0	no
+Chitinases	KO_keyword	12	12	CELLULOSE	24	-0.3946	-0.1394	0.7921	0	0.0	no
+Chitinases	KO_keyword	12	12	CELLULOSE	72	-0.6187	-0.3342	1.1423	0	0.0	no
+Chitinases	KO_keyword	12	12	CELLULOSE	168	-0.4928	-0.4572	1.3061	1	0.083	no
+Chitinases	KO_keyword	12	12	CELLULOSE	336	0.0234	-0.096	1.1853	0	0.0	no
+Chitinases	KO_keyword	12	12	CELLULOSE	672	0.2927	0.427	0.8165	0	0.0	no
+Chitinases	KO_keyword	12	12	GLUCOSE	2	-0.5046	-0.3419	0.9179	1	0.083	no
+Chitinases	KO_keyword	12	12	GLUCOSE	8	-0.2766	-0.0362	1.109	2	0.167	no
+Chitinases	KO_keyword	12	12	GLUCOSE	24	-0.6178	-0.5151	1.9005	2	0.167	no
+Chitinases	KO_keyword	12	12	GLUCOSE	72	0.039	-0.203	1.9709	3	0.25	yes
+Chitinases	KO_keyword	12	12	GLUCOSE	168	-0.0764	-0.0797	1.8781	3	0.25	yes
+Chitinases	KO_keyword	12	12	GLUCOSE	336	-0.0136	-0.1855	1.5976	2	0.167	no
+Chitinases	KO_keyword	12	12	XYLOSE	2	-0.9795	-0.85	1.4072	1	0.083	no
+Chitinases	KO_keyword	12	12	XYLOSE	8	-0.1577	-0.3741	1.2329	2	0.167	no
+Chitinases	KO_keyword	12	12	XYLOSE	24	-0.0006	0.183	1.8653	1	0.083	no
+Chitinases	KO_keyword	12	12	XYLOSE	72	-0.0195	-0.3263	1.4692	2	0.167	no
+Chitinases	KO_keyword	12	12	XYLOSE	168	-0.3997	-0.8425	1.7855	5	0.417	yes
+Chitinases	KO_keyword	12	12	XYLOSE	336	-0.0971	-0.2339	1.3995	2	0.167	no
+Chitinases	KO_keyword	12	12	basal	0	-0.2956	-0.4517	1.0994	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	2	0.1595	0.1595	0.5195	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	8	0.1117	0.1117	0.7292	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	24	0.0798	0.0798	0.2682	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	72	0.7057	0.7057	0.5106	1	0.5	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	168	0.6842	0.6842	0.0251	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	336	0.0623	0.0623	0.18	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	CELLULOSE	672	0.356	0.356	0.1132	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	2	-0.6783	-0.6783	0.381	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	8	-0.4495	-0.4495	0.4302	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	24	-0.5839	-0.5839	0.4062	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	72	-0.7192	-0.7192	0.685	1	0.5	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	168	-0.7864	-0.7864	1.0437	1	0.5	no
+LPMO_accessory	KO_keyword	2	2	GLUCOSE	336	-0.2564	-0.2564	0.2776	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	2	-0.6491	-0.6491	0.457	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	8	-0.5452	-0.5452	0.435	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	24	-0.7923	-0.7923	0.1604	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	72	-0.5296	-0.5296	0.6436	1	0.5	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	168	-0.6263	-0.6263	0.5701	1	0.5	no
+LPMO_accessory	KO_keyword	2	2	XYLOSE	336	-0.001	-0.001	0.6264	0	0.0	no
+LPMO_accessory	KO_keyword	2	2	basal	0	-0.4115	-0.4115	0.0292	0	0.0	no
